@@ -4,7 +4,6 @@ A real-time Sign Language Detection system using deep learning and computer visi
 **🚀 Features**
 
 Real-time detection through webcam.
-
 Deep learning-based gesture recognition using CNN.
 Dataset preprocessing and model training in TensorFlow/Keras.
 Easy-to-use Python implementation.
